@@ -1,0 +1,20 @@
+data/hardlink.txt
+data/u_after.txt
+data/notes/notes1.txt
+data/notes/perms.txt
+data/symlink.txt
+data/u_before.txt
+data/hardlink.txt
+data/notes/notes1.txt
+data/notes/hlink1
+data/notes/perms.txt
+2 data/hardlink.txt
+0 data/u_after.txt
+14 data/notes/notes1.txt
+2 data/notes/perms.txt
+0 data/u_before.txt
+3c3
+< walnuts
+---
+> grapes
+data/a.txt data/b.txt differ: byte 16, line 3

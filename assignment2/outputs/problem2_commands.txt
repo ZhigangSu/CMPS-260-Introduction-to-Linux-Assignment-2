@@ -1,0 +1,132 @@
+PID of background job: 7170
+    PID TTY          TIME CMD
+   3058 pts/0    00:00:00 bash
+   7170 pts/0    00:00:00 sleep
+   7176 pts/0    00:00:00 ps
+top - 14:06:03 up  4:35,  1 user,  load average: 0.00, 0.00, 0.00
+Tasks: 185 total,   1 running, 184 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.1 us,  0.0 sy,  0.0 ni, 81.8 id,  9.1 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   4868.9 total,   1620.1 free,   1276.6 used,   2243.8 buff/cache     
+MiB Swap:   4096.0 total,   4096.0 free,      0.0 used.   3592.3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   23336  14428   9488 S   0.0   0.3   0:03.48 systemd
+      2 root      20   0       0      0      0 S   0.0   0.0   0:00.00 kthreadd
+      3 root      20   0       0      0      0 S   0.0   0.0   0:00.00 pool_wo+
+7170
+ 1) SIGHUP	 2) SIGINT	 3) SIGQUIT	 4) SIGILL	 5) SIGTRAP
+ 6) SIGABRT	 7) SIGBUS	 8) SIGFPE	 9) SIGKILL	10) SIGUSR1
+11) SIGSEGV	12) SIGUSR2	13) SIGPIPE	14) SIGALRM	15) SIGTERM
+16) SIGSTKFLT	17) SIGCHLD	18) SIGCONT	19) SIGSTOP	20) SIGTSTP
+21) SIGTTIN	22) SIGTTOU	23) SIGURG	24) SIGXCPU	25) SIGXFSZ
+26) SIGVTALRM	27) SIGPROF	28) SIGWINCH	29) SIGIO	30) SIGPWR
+31) SIGSYS	34) SIGRTMIN	35) SIGRTMIN+1	36) SIGRTMIN+2	37) SIGRTMIN+3
+38) SIGRTMIN+4	39) SIGRTMIN+5	40) SIGRTMIN+6	41) SIGRTMIN+7	42) SIGRTMIN+8
+43) SIGRTMIN+9	44) SIGRTMIN+10	45) SIGRTMIN+11	46) SIGRTMIN+12	47) SIGRTMIN+13
+48) SIGRTMIN+14	49) SIGRTMIN+15	50) SIGRTMAX-14	51) SIGRTMAX-13	52) SIGRTMAX-12
+53) SIGRTMAX-11	54) SIGRTMAX-10	55) SIGRTMAX-9	56) SIGRTMAX-8	57) SIGRTMAX-7
+58) SIGRTMAX-6	59) SIGRTMAX-5	60) SIGRTMAX-4	61) SIGRTMAX-3	62) SIGRTMAX-2
+63) SIGRTMAX-1	64) SIGRTMAX	
+Killed with -15
+Killed with -SIGTERM
+Killed with -TERM
+Started Job 1 with PID: 7209
+Started Job 2 with PID: 7210
+Wait exit status: 0
+alpha browse products
+alpha login FAIL
+alpha login OK
+alpha login OK
+bravo browse checkout
+bravo pay 100.00
+bravo pay 19.99
+charlie login OK
+charlie pay 7.50
+      1 alpha browse products
+      1 alpha login FAIL
+      2 alpha login OK
+      1 bravo browse checkout
+      1 bravo pay 100.00
+      1 bravo pay 19.99
+      1 charlie login OK
+      1 charlie pay 7.50
+alpha login OK
+alpha browse products
+alpha login FAIL
+bravo browse checkout
+bravo pay 100.00
+bravo pay 19.99
+charlie login OK
+charlie pay 7.50
+alpha login OK
+alpha login FAIL
+bravo pay 19.99
+alpha login OK
+alphabravo pay 19.99
+bravo pay 100.00
+charlie pay 7.50
+bravo browse checkout
+charlie login OK
+alpha login OK
+charlie login OK
+alpha login OK
+alpha login OK
+alpha login FAIL
+bravo pay 19.99
+bravo pay 100.00
+charlie pay 7.50
+alpha browse products
+bravo browse checkout
+charlie login OK
+alpha login OK
+alpha login OK
+alpha login FAIL
+alpha
+alpha
+bravo
+bravo
+charl
+alpha
+bravo
+charl
+alpha
+alpha
+alpha
+bravo
+bravo
+charlie
+alpha
+bravo
+charlie
+alpha
+login OK
+login FAIL
+pay 19.99
+pay 100.00
+pay 7.50
+browse products
+browse checkout
+login OK
+login OK
+apples	apples
+oranges	oranges
+walnuts	grapes
+apples,apples
+oranges,oranges
+walnuts,grapes
+apples	oranges	walnuts
+apples	InputFromStdin
+oranges	
+walnuts	
+alpha OK
+alpha FAIL
+bravo 19.99
+bravo 100.00
+charlie 7.50
+alpha products
+bravo checkout
+charlie OK
+alpha OK
+alpha login FAIL
+bravo pay 19.99
+bravo pay 100.00

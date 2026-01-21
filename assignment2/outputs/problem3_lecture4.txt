@@ -1,0 +1,92 @@
+beat a brat on a boat
+beat a brat on a boat
+var=_ok2
+var2=Bad-Name
+var3=good_name_3
+amount=$19.99
+amount=$100.00
+amount=$7.5
+time=9:05 am
+time=12:30 pm
+time=1:01 pm
+HTML <h1>Title</h1>
+HTML <H2>Section</H2>
+BEAT A BRAT ON A BOAT
+B E A T
+B O A T
+EMPTYLINE:
+
+VAR=_OK2
+VAR2=BAD-NAME
+VAR3=GOOD_NAME_3
+
+AMOUNT=$19.99
+AMOUNT=$100.00
+AMOUNT=$7.5
+
+TIME=9:05 AM
+TIME=12:30 PM
+TIME=1:01 PM
+
+HTML <H1>TITLE</H1>
+HTML <H2>SECTION</H2>
+LITERAL=A*B* AND ALSO ^$ APPEARS HERE
+beat a brat on a boat
+b e a t
+b o a t
+EMPTYLINE:
+
+var=_ok
+var=Bad-Name
+var=good_name_
+
+amount=$.
+amount=$.
+amount=$.
+
+time=: am
+time=: pm
+time=: pm
+
+HTML <h>Title</h>
+HTML <H>Section</H>
+literal=a*b* and also ^$ appears here
+hit a brat on a boat
+b e a t
+b o a t
+EMPTYLINE:
+
+var=_ok2
+var2=Bad-Name
+var3=good_name_3
+
+amount=$19.99
+amount=$100.00
+amount=$7.5
+
+time=9:05 am
+time=12:30 pm
+time=1:01 pm
+
+HTML <h1>Title</h1>
+HTML <H2>Section</H2>
+literal=a*b* and also ^$ appears here
+beat a brat on a boat
+b e a t
+b o a t
+
+var=_ok2
+var2=Bad-Name
+var3=good_name_3
+
+amount=$19.99
+amount=$100.00
+amount=$7.5
+
+time=9:05 am
+time=12:30 pm
+time=1:01 pm
+
+HTML <h1>Title</h1>
+HTML <H2>Section</H2>
+literal=a*b* and also ^$ appears here
